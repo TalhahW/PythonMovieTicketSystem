@@ -1,0 +1,4 @@
+admin           AA 900.00000
+buyer           BS 400.00000
+seller          SS 250.00000
+user1           FS 600.00000
